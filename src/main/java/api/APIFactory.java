@@ -1,4 +1,4 @@
-package main.java.backend.api;
+package main.java.api;
 
 public class APIFactory {
     private static API api;
